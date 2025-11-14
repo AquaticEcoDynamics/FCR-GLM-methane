@@ -1,0 +1,2 @@
+iteration,model_runs_completed,total_phi,measurement_phi,regularization_phi,oxy_0.1,oxy_1,oxy_2,oxy_3,oxy_4,oxy_5,oxy_6,oxy_7,oxy_8,oxy_9,ch4_0.1,ch4_1.6,ch4_3.8,ch4_5,ch4_6.2,ch4_8,ch4_9,diff_ch4,ebb_ch4
+0,1,1213.49,1213.49,0,21.9923,28.5095,47.226,59.7256,49.3404,34.4359,31.0434,13.4113,38.5062,48.5427,41.6706,23.2253,18.7472,42.6942,60.1857,44.7096,82.5402,302.568,224.415

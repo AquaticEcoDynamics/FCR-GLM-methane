@@ -1,0 +1,25 @@
+pcf version=2
+* control data keyword
+pestmode                                 estimation
+noptmax                                -1
+phiredstp                         1.000000E-03
+nphistp                                 4
+nphinored                               4
+svdmode                                 1
+maxsing                                21
+eigthresh                           1e-07
+eigwrite                                1
+panther_transfer_on_finish     ebb_diff_fluxes.csv
+* parameter groups external
+glm3_reweight.pargp_data.csv
+* parameter data external
+glm3_reweight.par_data.csv
+* observation data external
+glm3_reweight.obs_data.csv
+* model command line
+./glm_latest/glm
+Rscript PestFCR_hourly.R
+* model input external
+glm3_reweight.tplfile_data.csv
+* model output external
+glm3_reweight.insfile_data.csv

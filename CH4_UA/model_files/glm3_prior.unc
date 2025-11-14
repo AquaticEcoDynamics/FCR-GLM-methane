@@ -1,0 +1,24 @@
+START STANDARD_DEVIATION
+   std_multiplier 1.0
+fsed_oxy1	0.194537813
+fsed_oxy2	0.325257499
+fsed_oxy3	0.325257499
+fsed_oxy4	0.325257499
+ksed_oxy	0.424742501
+thsed_oxy	0.044022815
+Rch4ox 0.468765316
+Kch4ox 0.5
+vTch4ox 0.0440228148
+rpoc_resp 1.25
+theta_pocR 0.0197953115
+Kpocox_sed 0.25
+diff_coef 1.25
+phi 0.0365320089
+sed_z 0.75
+z_dbl 0.25
+Rch4oxS 0.575257499
+Kch4oxS 0.75
+theta_ch4oxS 0.0197953115
+gamma_max 0.0880456295
+Kch4ox_diff 0.305462187
+END STANDARD_DEVIATION

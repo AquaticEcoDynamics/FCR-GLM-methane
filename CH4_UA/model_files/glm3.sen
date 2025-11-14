@@ -1,0 +1,28 @@
+                    PARAMETER SENSITIVITIES: CASE glm3
+
+
+NUMERIC PARAMETER SENSITIVITIES FOR OPTIMISATION ITERATION NO. 1   ----->
+  Parameter name   Group        Current Value        PEST_CSS_wo_reg
+   fsed_oxy1       catch_scale  30.3317987515        1.04317895714       
+   fsed_oxy2       catch_scale  18.3399501635        1.07833367834       
+   fsed_oxy3       catch_scale  11.2743790720        0.951980552481      
+   fsed_oxy4       catch_scale  12.5167949517        1.05846363955       
+   ksed_oxy        catch_scale  33.7099218386        1.18426919939       
+   thsed_oxy       catch_scale  1.10442072792        1.39692316763       
+   rch4ox          catch_scale  0.250000000000       1.15163295115       
+   kch4ox          catch_scale  5.00000000000        0.975942532868      
+   vtch4ox         catch_scale  1.08000000000        1.16542359244       
+   rpoc_resp       catch_scale  0.000100000000000    0.929306230375      
+   theta_pocr      catch_scale  1.13000000000        1.22092560176       
+   kpocox_sed      catch_scale  1.00000000000        0.944691965440      
+   diff_coef       catch_scale  5.00000000000e-11    1.06848791559       
+   phi             catch_scale  0.300000000000       1.15890237846       
+   sed_z           catch_scale  0.0100000000000      1.02278742859       
+   z_dbl           catch_scale  0.00100000000000     1.10790080702       
+   rch4oxs         catch_scale  0.00300000000000     0.900402182636      
+   kch4oxs         catch_scale  0.00100000000000     0.951410972560      
+   theta_ch4oxs    catch_scale  1.05000000000        1.04983786453       
+   gamma_max       catch_scale  0.700000000000       1.03316521167       
+   kch4ox_diff     catch_scale  18.0000000000        0.868210418870      
+
+
